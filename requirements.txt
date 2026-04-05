@@ -1,0 +1,11 @@
+pydantic==2.12.3
+fastapi==0.123.10
+uvicorn==0.34.2
+python-dotenv==1.1.1
+langchain==0.3.25
+langchain-community==0.3.23
+langchain_huggingface==0.2.0
+langchain-openai==0.3.16
+huggingface-hub==0.35.1
+colorlog==6.9.0
+faiss-cpu==1.11.0
